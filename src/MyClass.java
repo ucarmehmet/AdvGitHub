@@ -9,5 +9,8 @@ public class MyClass {
         //değişiklik 3
         System.out.println("Bu derste branchler işlenecek.");
 
+        //techproda değişiklik
+        System.out.println("yeni branch");
+
     }
 }
