@@ -3,5 +3,8 @@ public class MyClass {
         //değişiklik 1
         System.out.println("Herkese Selamlar:)");
 
+        //değişiklik 2
+        System.out.println("Adv Github dersine hoşgeldiniz.");
+
     }
 }
