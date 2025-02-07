@@ -6,4 +6,6 @@ public class Book {
     //yeni bir field
     public String auther;
 
+    //çalışmaya devam......
+    //...... tamamlandı
 }
