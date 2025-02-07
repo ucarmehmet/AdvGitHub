@@ -9,5 +9,9 @@ public class Book {
     //çalışmaya devam......
     //...... tamamlandı
 
+<<<<<<< HEAD
     //localde değişiklik
+=======
+    //githubda değişiklik
+>>>>>>> 2769973e0f03b2e18e802074fdda9442b5423b58
 }
